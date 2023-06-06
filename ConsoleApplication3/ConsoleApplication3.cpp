@@ -5,12 +5,12 @@
 
 int main()
 {
-    std::cout << "Nešto novo!\n";
-    std::cout << "Nešto novo 2 !\n";
+    std::cout << "NeÅ¡to novo!\n";
+    std::cout << "NeÅ¡to novo 2 !\n";
 
 
 }
-
+// KOMENTAR KOLABORATORA
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
