@@ -6,6 +6,9 @@
 int main()
 {
     std::cout << "Nešto novo!\n";
+    std::cout << "Nešto novo 2 !\n";
+
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
